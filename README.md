@@ -152,6 +152,12 @@ The following data tables provided the values of the twelve stocks' total daily 
 
 ---
 
+Recommendation:
+
+The recommendation upon which stocks for Steve's parents to invest in and diversify their portfolio are stocks ENPH and RUN. Stocks ENPH and RUN have managed to maintain their return rates thus investing in these two stocks may plateau at times with little risk of losing money. If Steve's parents are interested in playing a game of 'Risk', VSLR is a stock to keep an eye one. Although VSLR has decreased only slightly there is still a chance of gaining with this stock over time. Investing in VSLR is to proceed with caution. My recommendation is to do more research on VSLR and only invest the minimum amount.
+
+---
+
 Summary
 
 The advantages of refactoring coding is that the coding is: cleaner, more organized, somewhat more automated (e.g. less coding is entered), viewer-friendly for reading, easier maintance; however the disadvantage of refactoring coding is the amount of time spent to create it and having to consistently test the coding to check if it is working or not. In comparison to the using the original scripts, the advantages of using the original script is that it is easier to manipulate than refactoring coding and its repeatability (i.e. can tell the computer to repeat something as many times as you'd like). However there are significantly more disadvantages in using the original script such as the original script is more prone to errors; needs consistent testing; having to manually edit said errors; must tell the computer exactly in what order to process the commands; and close-to-illegible coding.
